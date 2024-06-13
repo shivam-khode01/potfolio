@@ -656,8 +656,8 @@ height: auto;
         text-align: start;
     }
 }
-#sidebar
 .contact-section{
+	
     background-image: url(image1.jpg);
     height:auto;
     width: 100%;
