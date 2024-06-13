@@ -489,6 +489,7 @@ height: auto;
     display: flexbox;
     height:auto;
     width: 100%;
+    padding-bottom: 30px;
    background-color:#e2dede;
 }
 .project-title{
@@ -657,11 +658,11 @@ height: auto;
     }
 }
 .contact-section{
-background-image: url(image1.jpg);
+    background-image: url(image1.jpg);
     height:auto;
     width: 100%;
-    margin-top: -2%;
-    padding-bottom:20px;
+    margin-top: -10px;
+    padding-bottom:70px;
 }
 .contact-title{
     display: flex;
