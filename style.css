@@ -657,8 +657,7 @@ height: auto;
     }
 }
 .contact-section{
-	
-    background-image: url(image1.jpg);
+background-image: url(image1.jpg);
     height:auto;
     width: 100%;
     margin-top: -2%;
