@@ -69,7 +69,7 @@ document.addEventListener('DOMContentLoaded', ()=>{
 document.addEventListener('DOMContentLoaded', () => {
   let caseBtn = document.getElementById('spotifybtn');
   function projectRedirect() {
-      window.location.href = `'https://shivam-khode01.github.io/potfolio-spotify/'`;
+      window.location.href ='https://shivam-khode01.github.io/potfolio-spotify/';
   }
   if (caseBtn) {
       caseBtn.addEventListener('click', projectRedirect);
