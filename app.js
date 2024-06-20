@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
 document.addEventListener('DOMContentLoaded', () => {
   let caseBtn = document.getElementById('hireachef-btn');
   function projectRedirect() {
-      window.location.href = '/case-study-hireachef.html';
+      window.location.href = 'https://shivam-khode01.github.io/potfolio-hireachef/';
   }
   if (caseBtn) {
       caseBtn.addEventListener('click', projectRedirect);
