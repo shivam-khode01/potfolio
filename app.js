@@ -90,7 +90,7 @@ document.addEventListener('DOMContentLoaded', () => {
 document.addEventListener('DOMContentLoaded', () => {
   let caseBtn = document.getElementById('simongame-btn');
   function projectRedirect() {
-      window.location.href = '/case-study-simongame..html';
+      window.location.href = 'https://shivam-khode01.github.io/potfolio-simongame/';
   }
   if (caseBtn) {
       caseBtn.addEventListener('click', projectRedirect);
